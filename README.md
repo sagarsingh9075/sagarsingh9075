@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Sagar Singh</h1>
 <div align="center"> <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/devops-banner.png"> </div>
 <h3 align="center">A passionate DevOps Engineer from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsingh9075&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsingh9075" /> </p>
 
