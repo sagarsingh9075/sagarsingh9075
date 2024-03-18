@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagarsingh9075&show_icons=true&locale=en" alt="sagarsingh9075" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagarsingh9075&" alt="sagarsingh9075" /></p>
+<img align="right" alt="Coding" width="400" src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/scribble-devops.png">
