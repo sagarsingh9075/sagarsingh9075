@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsingh9075&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsingh9075" /> </p>
 
-- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/lightning.gif" width="21" I’m currently learning **cloud | DevOps**
+- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/lightning.gif?raw=true" width="21" I’m currently learning **cloud | DevOps**
 
-- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/doc.gif" width="21" All of my projects are available at [https://github.com/sagarsingh9075?tab=repositories](https://github.com/sagarsingh9075?tab=repositories)
+- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/doc.gif?raw=true" width="21" All of my projects are available at [https://github.com/sagarsingh9075?tab=repositories](https://github.com/sagarsingh9075?tab=repositories)
 
-- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/message.gif" width="21" Ask me about **Cloud & DevOps**
+- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/message.gif?raw=true" width="21" Ask me about **Cloud & DevOps**
 
-- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/letterbox.gif" width="21" How to reach me **sagarsingh9075@gmail.com**
+- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/letterbox.gif?raw=true" width="21" How to reach me **sagarsingh9075@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
