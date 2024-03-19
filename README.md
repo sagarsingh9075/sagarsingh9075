@@ -7,7 +7,7 @@
 
 - <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning **cloud | DevOps**
 
-- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/doc.gif?raw=true" width="21" />&nbsp;&nbsp; All of my projects are available at [https://github.com/sagarsingh9075?tab=repositories](https://github.com/sagarsingh9075?tab=repositories)
+- <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/doc.gif?raw=true" width="21" />&nbsp;&nbsp; All of my projects are available at [https://github.com/sagarsingh9075](https://github.com/sagarsingh9075)
 
 - <img src="https://github.com/sagarsingh9075/sagarsingh9075/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **Cloud & DevOps**
 
